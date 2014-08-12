@@ -1,3 +1,3 @@
 # Ruby on Rails Tutorial : demo app
 
-This is the demo app for [*Ruby on rails tutorial: Learn ROR *]
+This is the demo app for [*Ruby on rails tutorial: Learn ROR*]
